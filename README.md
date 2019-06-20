@@ -1,0 +1,2 @@
+# denoise
+idea for denoise
